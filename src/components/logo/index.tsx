@@ -7,7 +7,7 @@ export function Logo() {
         src="/src/assets/logo.svg"
       />
 
-      <h2 className="text-2xl font-semibold tracking-tight">Iron Gym</h2>
+      <h2 className="text-2xl font-semibold tracking-tight">Iron Challenge</h2>
     </div>
   )
 }
